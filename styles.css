@@ -7,3 +7,6 @@ p {
 
   word-wrap: break-word;
 }
+a:hover {
+  text-decoration: underline;
+}
